@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workToolApi", "workToolApi\workToolApi.csproj", "{509623EB-3015-495D-8A1C-A5C1EB88F5F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkTool.Service", "WorkTool.Service\WorkTool.Service.csproj", "{D6673FC2-BD56-4D0C-B0BC-161D9928D191}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkTool.Model", "WorkTool.Model\WorkTool.Model.csproj", "{6E85B74C-CB34-4918-96B5-79EB6A060B57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkTool.Interface", "WorkToll.Interface\WorkTool.Interface.csproj", "{6BE8F06C-73F9-4E27-8C4A-075A699B9ACE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{12C5EE9D-2428-42EC-AB16-201F3D11692D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "worktool.IdentityServer", "worktool.IdentityServer\worktool.IdentityServer.csproj", "{B122DA84-E010-4CF7-82F0-FAC976B66D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509623EB-3015-495D-8A1C-A5C1EB88F5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509623EB-3015-495D-8A1C-A5C1EB88F5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509623EB-3015-495D-8A1C-A5C1EB88F5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509623EB-3015-495D-8A1C-A5C1EB88F5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6673FC2-BD56-4D0C-B0BC-161D9928D191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6673FC2-BD56-4D0C-B0BC-161D9928D191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6673FC2-BD56-4D0C-B0BC-161D9928D191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6673FC2-BD56-4D0C-B0BC-161D9928D191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E85B74C-CB34-4918-96B5-79EB6A060B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E85B74C-CB34-4918-96B5-79EB6A060B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E85B74C-CB34-4918-96B5-79EB6A060B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E85B74C-CB34-4918-96B5-79EB6A060B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE8F06C-73F9-4E27-8C4A-075A699B9ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE8F06C-73F9-4E27-8C4A-075A699B9ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE8F06C-73F9-4E27-8C4A-075A699B9ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE8F06C-73F9-4E27-8C4A-075A699B9ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C5EE9D-2428-42EC-AB16-201F3D11692D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C5EE9D-2428-42EC-AB16-201F3D11692D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C5EE9D-2428-42EC-AB16-201F3D11692D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C5EE9D-2428-42EC-AB16-201F3D11692D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B122DA84-E010-4CF7-82F0-FAC976B66D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B122DA84-E010-4CF7-82F0-FAC976B66D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B122DA84-E010-4CF7-82F0-FAC976B66D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B122DA84-E010-4CF7-82F0-FAC976B66D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4A20D1-450C-4DC0-BB03-A7AE7A0C7AAA}
+	EndGlobalSection
+EndGlobal

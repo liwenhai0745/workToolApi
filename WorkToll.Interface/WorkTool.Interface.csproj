@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>WorkTool.Interface</AssemblyName>
+    <RootNamespace>WorkTool.Interface</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkTool.Model\WorkTool.Model.csproj" />
+  </ItemGroup>
+
+</Project>
